@@ -1,7 +1,8 @@
 Google Places App..
 
-Language : PHP
-Framework : Laravel 
+Language : PHP 
+
+framework: Laravel
 
 API : Google Places
 
